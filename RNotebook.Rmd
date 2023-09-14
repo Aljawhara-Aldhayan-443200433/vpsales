@@ -1,0 +1,18 @@
+---
+title: "R Notebook for IT326 project"
+
+Goal:
+  
+  
+---
+
+```{r}
+options(max.print =9999999)
+D<-read.csv("android-games.csv")
+str(D)
+
+```
+
+```{r}
+print(D)
+```
